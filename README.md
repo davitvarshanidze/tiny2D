@@ -37,8 +37,8 @@ brew install lua
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/DavitVarshanidze/Tiny2D
-cd Tiny2D
+git clone https://github.com/davitvarshanidze/tiny2D
+cd tiny2D
 ```
 
 ### Run make to compile the engine:
